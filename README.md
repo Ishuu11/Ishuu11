@@ -2,7 +2,7 @@
 
 ![Ishu](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Ishu")
 
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/ishuu11)_ :desert_island:Living in Rohtak,Haryana :India :
+:computer: _Software Engenieer :desert_island:Living in Rohtak,Haryana :India :
 
 ### My Tech Stack
 
